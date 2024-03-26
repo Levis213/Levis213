@@ -1,5 +1,5 @@
 - 👋 Hola, me llamo Levi
-- 🔰 Estudiando python
+- 🔰 Estudiando Java
 - 🌱 Estudio desde casa
 - 📚 Trabajo en equipo
 - ☕ Mafioso del Café
