@@ -1,6 +1,6 @@
 - 👋 Hola, me llamo Levi
-- 🔰 Estudiando Java
-- 🌱 Estudio desde casa
+- 🔰 Estudiando Python
+- 🌱 RobloxStudio Developer
 - 📚 Trabajo en equipo
 - ☕ Mafioso del Café
 - 😺 Amante de los michis
