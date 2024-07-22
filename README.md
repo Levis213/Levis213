@@ -1,7 +1,6 @@
 - 👋 Hola, me llamo Levi
-- 🔰 Estudiando Python
-- 🌱 RobloxStudio Developer
-- 📚 Trabajo en equipo
+- 📚 Estudiando Python
+- 🌱 Trabajo en equipo
 - ☕ Mafioso del Café
 - 😺 Amante de los michis
 
